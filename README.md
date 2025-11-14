@@ -54,7 +54,10 @@ A brief 2-3 sentence description of what this project is.
 What skills should contributors have or be willing to learn?
 
 ## Details
-The fine details of the project. What would the intended end product look like? What would the process of development be? Etc.
+The fine details of the project.
+What would the intended end product look like?
+What would the process of development be?
+Etc.
 
 ## Open Questions
 Anything you're unsure about or want/would like feedback on?
